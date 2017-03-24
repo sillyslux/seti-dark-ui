@@ -1,4 +1,4 @@
-Dom = require(atom.packages.getLoadedPackage('seti-ui').path + '/lib/dom')
+Dom = require(atom.packages.getLoadedPackage('seti-dark-ui').path + '/lib/dom')
 
 module.exports =
 
